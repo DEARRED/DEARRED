@@ -52,5 +52,5 @@
     </th>
 </table>
 <p align="right">
-<sub>GO MY POGOLEMENTS</sub>ㅤㅤㅤㅤ
+<sub>GO MY POGOLEMENTS</sub>ㅤㅤㅤ
 </p>
