@@ -54,3 +54,10 @@
 <p align="right">
 <sub>GO MY POGOLEMENTS</sub>ㅤㅤㅤ
 </p>
+<p align="center">
+<details>
+ <summary align="center">      </summary>
+ look at my chuds bruh<br>
+ <img width="50%" src="https://media.discordapp.net/attachments/1557470856597479504/1558213406434263150/IMG_7660.png?ex=6aca9ed2&is=6ac94d52&hm=236696b292321db4a4ffd6999a3511412ec4ea67bbc7230b35a90e828108812e&=&format=webp&quality=lossless&width=768&height=472">
+</details>
+</p>
